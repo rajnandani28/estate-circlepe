@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/estate-circlepe/static/css/main.ff02da2b.css",
+    "main.js": "/estate-circlepe/static/js/main.25f94872.js",
+    "index.html": "/estate-circlepe/index.html",
+    "main.ff02da2b.css.map": "/estate-circlepe/static/css/main.ff02da2b.css.map",
+    "main.25f94872.js.map": "/estate-circlepe/static/js/main.25f94872.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02da2b.css",
+    "static/js/main.25f94872.js"
+  ]
+}
